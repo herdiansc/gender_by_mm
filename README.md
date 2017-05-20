@@ -8,6 +8,7 @@ This is an experimentation of simple neural network in python.
 - Predict output(Male|Female) based on new input
 
 ## Dataset description
+- Extracted from kaggle dataset(https://www.kaggle.com/miroslavsabo/young-people-survey)
 - Contains 32 columns(31 inputs and 1 output(0;Female|1;Male))
 - The 31 inputs are consists of music and movie preferences
 - Each preferences has integer option 1 to 5 where 1 is very negative and all the way to 5 is positive(Example: Pop. 1=Dont enjoy at all, 5=Enjoy very much)
