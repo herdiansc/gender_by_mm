@@ -12,7 +12,7 @@ This is an experimentation of simple neural network in python.
 - Contains 32 columns(31 inputs and 1 output(0=Female|1=Male))
 - The 31 inputs are consists of music and movie preferences
 - Each preferences has integer option 1 to 5 where 1 is very negative and all the way to 5 is positive(Example: Pop. 1=Dont enjoy at all, 5=Enjoy very much)
-- Last output is in last column consist of (0;Female|1;Male)
+- Last output is in last column consist of (0=Female|1=Male)
 
 ## Research Question
 - Based on listed music and movie preferences, is he/she male or female?
