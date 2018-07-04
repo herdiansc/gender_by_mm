@@ -1,5 +1,5 @@
-# gender_by_mm
-An experimentation on gender classification by music and movie preferences using neural network with keras.
+# Gender Classification based on Music and Movie Preferences with Keras
+This is an experimentation on gender classification using neural network with keras. The classification will be done by building neural network model based on music and movie preferences.
 
 This is an experimentation of simple neural network in python.
 
