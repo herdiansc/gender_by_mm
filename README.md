@@ -1,5 +1,5 @@
 # gender_by_mm
-An experimentation on gender classification using neural network with keras
+An experimentation on gender classification by music and movie preferences using neural network with keras.
 
 This is an experimentation of simple neural network in python.
 
@@ -8,8 +8,8 @@ This is an experimentation of simple neural network in python.
 - Predict output(Male|Female) based on new input
 
 ## Dataset description
-- Extracted from kaggle dataset(https://www.kaggle.com/miroslavsabo/young-people-survey)
-- Contains 32 columns(31 inputs and 1 output(0;Female|1;Male))
+- Extracted from kaggle dataset(https://www.kaggle.com/miroslavsabo/young-people-survey) by using only music and movie preferences
+- Contains 32 columns(31 inputs and 1 output(0=Female|1=Male))
 - The 31 inputs are consists of music and movie preferences
 - Each preferences has integer option 1 to 5 where 1 is very negative and all the way to 5 is positive(Example: Pop. 1=Dont enjoy at all, 5=Enjoy very much)
 - Last output is in last column consist of (0;Female|1;Male)
